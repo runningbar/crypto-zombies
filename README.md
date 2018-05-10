@@ -8,11 +8,11 @@
 
 * 基于`Infura`和`MetaMask`和以太坊合约进行交互，以开发dapp前端
 
-    * call()
-    * send()：带支付功能
-    * 使用websocket订阅event，并结合`indexed`过滤事件
+    * `call()`
+    * `send()`：带支付功能
+    * 使用`websocket`订阅`event`，并结合`indexed`过滤事件
 
-* 合约的ABI
+* 合约的`ABI`
 
 * 实现`OpenZeeplin`对`ERC721`规范的数字收藏品标准
 
